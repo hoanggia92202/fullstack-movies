@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://ancient-sands-21519.herokuapp.com/";
+const API_BASE_URL = "https://ancient-sands-21519.herokuapp.com";
 //process.env.REACT_APP_API_BASE_URL || "http://localhost:5000";
 
 /**

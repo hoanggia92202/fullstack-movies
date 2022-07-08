@@ -1,10 +1,14 @@
-# WeLoveMovies Frontend Application
+# WeLoveMovies Fullstack Application
 
-This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
+This is a fullstack application. The front-end is hook up with the 'we-love-movies' server project.
 
 ## Installation
 
-1. Fork / clone this repository.
-1. Run `npm install`.
+1. Clone this repo.
+2. Run 'npm install' in the main directory
+3. Goto 'backend'  directory, run 'npm install' again.
+4. In the main directory, run 'npm run start:dev'.
 
-Use `npm start` to run the application. If you deploy this application, create a `.env.production` file similar to the `.env.development` file.
+## Heroku
+This application is also deploy at : https://fierce-taiga-91529.herokuapp.com/
+
